@@ -1,0 +1,7 @@
+module CSQLite3 {
+    header "private_sqlite3.h"
+    link "sqlite3"
+    export *
+}
+
+
